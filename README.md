@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm gully
-I build scientific Python software, ideally with PyTorch/JAX,focusing on interpretability, flexibility, uncertainty, and impact.
+I build scientific Python software, ideally with PyTorch/JAX, focusing on interpretability, flexibility, uncertainty, and impact.
 
 ### Creator of:
 - [blasé](https://blase.readthedocs.io): Interpretable Machine Learning for super-resolution semi-empirical spectroscopy in PyTorch and JAX ([paper](https://ui.adsabs.harvard.edu/abs/2022ApJ...941..200G/abstract))
