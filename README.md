@@ -22,8 +22,8 @@ I build scientific Python software, ideally with PyTorch and JAX, with a focus o
 
 ## :new: Unpublished projects
 
-**Starspots**: [contracosta](https://github.com/BrownDwarf/contracosta), :lock:[acdc](https://github.com/gully/acdc), :lock:[monhegan](https://github.com/BrownDwarf/monhegan)  
-**Brown Dwarfs**: :lock:[gandules](https://github.com/BrownDwarf/gandules), :lock: [varsity](https://github.com/BrownDwarf/varsity), :lock: [lombok](https://github.com/BrownDwarf/lombok), :lock: [ucdwhpf](https://github.com/BrownDwarf/ucdwhpf),   
-**Exoplanet Atmospheres**: :lock: [AUmic](https://github.com/BrownDwarf/AUmic),   
-**Methodological**: [coldrum](https://github.com/gully/coldrum) (ft. [pysr](https://github.com/MilesCranmer/PySR)), [fiatlux](https://github.com/BrownDwarf/fiatlux)  
-**Hardware**: [nubble](https://github.com/BrownDwarf/nubble)
+**Starspots**: [contracosta](https://github.com/BrownDwarf/contracosta), :lock:[acdc](https://github.com/gully/acdc), :lock:[monhegan](https://github.com/BrownDwarf/monhegan), :lock: [star-witness](https://github.com/gully/star-witness), :lock:[hopful](https://github.com/gully/hopful), :lock: [calico](https://github.com/BrownDwarf/calico), :lock: [xveganx](https://github.com/BrownDwarf/xveganx), [KaneDoe](https://github.com/BrownDwarf/KaneDoe)  
+**Brown Dwarfs**: :lock:[gandules](https://github.com/BrownDwarf/gandules), :lock: [varsity](https://github.com/BrownDwarf/varsity), :lock: [lombok](https://github.com/BrownDwarf/lombok), :lock: [ucdwhpf](https://github.com/BrownDwarf/ucdwhpf), [jammer](https://github.com/gully/jammer-Gl570D)  
+**Methodological**: [coldrum](https://github.com/gully/coldrum) (ft. [pysr](https://github.com/MilesCranmer/PySR)), [fiatlux](https://github.com/BrownDwarf/fiatlux), [TgiF](https://github.com/gully/TgiF), [HelloWorldNet](https://github.com/gully/HelloWorldNet), [gpytorch-astro](https://github.com/gully/gpytorch-astro), [ffi-motion](https://github.com/gully/ffi-motion), [bombcat](https://github.com/gully/bombcat)  
+**Hardware**: [nubble](https://github.com/BrownDwarf/nubble)  
+**Other**: [probabilisticAGN](https://github.com/BrownDwarf/probabilisticAGN)
