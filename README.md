@@ -22,5 +22,7 @@ I build scientific Python software, ideally with PyTorch and JAX, with a focus o
 ## :new: Unpublished projects
 - [contracosta](https://github.com/BrownDwarf/contracosta): A TESS GI small program to measure the color of starspots on a K2-selected sample
 - :lock:[gandules](https://github.com/BrownDwarf/gandules) : IGRINS Spectra of L dwarfs observed with Gemini in 2022B
+- [coldrum](https://github.com/gully/coldrum) Adapt blasé for broad lines in A0V standard stars with [pysr](https://github.com/MilesCranmer/PySR)
+- :lock:s[acdc](https://github.com/gully/acdc): Disentangling longitudinally asymmetric (AC) and longitudinally symmetric (DC) signals in spotted young stars with IGRINS
 
 
